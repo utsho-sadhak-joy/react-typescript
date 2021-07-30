@@ -1,3 +1,19 @@
+
+<img src="https://github.com/utsho-sadhak-joy/react-typescript/blob/master/src/components/img/r%26t.PNG" alt="" />
+<h4> This is a very simple form creation application. Made with react and typescript. 
+  You can add any people with name,img-url, age & some note about him. </h4>
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
